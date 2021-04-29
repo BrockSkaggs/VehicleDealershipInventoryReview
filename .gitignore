@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#SqlLite database
+*.db
+
+#VS Code Settings
+.vscode/
+
+#Chrome driver
+chromedriver.exe
